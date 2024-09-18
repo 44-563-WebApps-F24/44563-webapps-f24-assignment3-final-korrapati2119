@@ -1,3 +1,31 @@
-[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/dZ9FHvI8)
-# 44563-WebApps-F24-Assignment3-Final-Pages
-A repo to hold final version of files for GitHub pages demonstration
+<!DOCTYPE html>
+<html>
+    <head>
+     KORRAPATI
+    </head>
+    <body> 
+        <h1> VENKATA KISHORE </h1>
+        <h6> HYDERABAD </h6> 
+                     <p> Hyderabad had enormous enjoying activities.it had beautiful <b>landscapes</b> and sky scrapers as well.
+hyderabad had historical monumments and had <b>iconic buildings</b>.
+</p>
+
+***
+<ol> 
+   <li>CYBER TOWERS </li>
+   <li> CHARMINAR </li>
+   <li> ORR </li>
+</ol>
+<ul>
+<li>CHILKUR BALAJI </li>
+       <ul>it is a devotional place..</ul>
+       <ul> you can see beautiful locations around there </ul>
+<li> RFC </li>
+<li> VIKARABAD </li>
+</ul>
+<footer>
+ <p><a href="myDish.md" > see fav DISH </a></p>
+ </footer>
+    </body>
+</html>
+
